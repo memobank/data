@@ -1,6 +1,6 @@
 # Principaux frais mensuels prélevés par les banques traditionnelles
 
-Ce dossier contient les données qui ont servi à préparer l’article : Pourquoi les frais bancaires sont moins prévisibles que les trains suisses.
+Ce dossier contient les données qui ont servi à préparer l’article : [Pourquoi les frais bancaires sont moins prévisibles que les trains suisses](https://memo.bank/magazine/comparaison-frais-bancaires-2020).
 
 ## Contenu du CSV
 
