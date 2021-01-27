@@ -1,10 +1,10 @@
 banque,url_brochure_tarifaire,commission_mouvement_fixe,commission_mouvement_variable,virement_sepa_sortant,prelevement_sepa_sortant,ecriture_comptable,tenue_compte,actualisation_compte,banque_distance,total_frais_fixes
 Banque Palatine,https://www.palatine.fr/fileadmin/user_upload/pdf/tarifs/TARIFS_2020_Entreprises.pdf,"23,33","0,20","0,23","0,00","0,00","30,00","25,00","42,00","120,33"
-Banque Populaire (Paris),https://www.rivesparis.banquepopulaire.fr/portailinternet/Editorial/Tarifs/Documents/MAJ%200320%20PROFESSIONNELENTREPRISE_2020.pdf?vary=0-0-0,"5,00","0,15","0,00","0,00","0,00","35,33","6,25","5,00","51,58"
+Banque Populaire (Paris),https://www.rivesparis.banquepopulaire.fr/portailinternet/Editorial/Tarifs/Documents/MAJ%200320%20PROFESSIONNELENTREPRISE_2020.pdf?vary=0-0-0,"5,00","0,15","0,00","0,00","0,00","35,33","6,25","15,00","61,58"
 BNP Paribas,https://dam.bnpparibas.com/sms2/externe/richMedia/vcm_1576247179468_8841329112217067512.zip/data/document.pdf,"10,00","0,20","0,20","0,00","0,00","26,50","18,13","43,00","97,63"
 Caisse d’Épargne,https://ce-apps.fr/Conditions-et-tarifs-au-1er-janvier-2020/data/document.pdf,"8,33","0,25","0,20","0,00","0,00","30,00","20,83","20,00","79,17"
 CIC,https://www.cic.fr/partage/fr/CC/CIC-2015/telechargements/tarifs/CIC-Tarifs-Entreprises-2020.pdf,"13,50","0,20","0,21","0,00","0,10","34,00","0,00","37,00","84,50"
-Crédit Agricole (Paris),https://www.credit-agricole.fr/content/dam/assetsca/cr882/npc/documents/tarifs-2020/Entreprises_T2020_16p_v10_Interactif.pdf,"5,00","0,20","0,25","0,00","0,00","11,67","24,58","9,60","50,85"
+Crédit Agricole (Paris),https://www.credit-agricole.fr/content/dam/assetsca/cr882/npc/documents/tarifs-2020/Entreprises_T2020_16p_v10_Interactif.pdf,"5,00","0,20","0,25","0,00","0,00","35,00","24,58","9,60","74,18"
 Crédit Coopératif,https://www.credit-cooperatif.coop/telechargement-condition-generale?key=715uQGq3lRvdudmGhFCj2zS9%2f7MLDxDk6M6X4p9Or1%2fbHcM9EPBTIeBVOAZpOLGo,"8,33","0,18","0,20","0,00","0,00","60,00","4,58","20,17","93,08"
 Crédit du Nord,https://www.credit-du-nord.fr/icd/static/wem/agora/cdn/conditions-tarifs/Tarifs2020_EntpInstit_CDN.pdf,"7,30","0,20","0,21","0,00","0,00","666,67","0,00","30,00","703,97"
 Crédit Mutuel,https://www.creditmutuel.fr/partage/fr/CC/CMNE-2018/telechargements/tarifs/2020/entreprises.pdf,"0,00","0,07","0,21","0,00","0,00","25,00","20,83","32,00","77,83"
