@@ -4,6 +4,8 @@ Ce dossier contient les données qui ont servi à préparer l’article : [Pourq
 
 ## Contenu du CSV
 
+Les valeurs contenues dans le CSV sont séparées par des virgules (`,`).
+
 | Colonne                         | Définition                                                                                |
 | ------------------------------- | ----------------------------------------------------------------------------------------- |
 | `banque`                        | Nom de la banque                                                                          |
