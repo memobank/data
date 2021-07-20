@@ -1,4 +1,4 @@
-banque,url_brochure_tarifaire,commission_mouvement_fixe,commission_mouvement_variable,virement_sepa_sortant,prelevement_sepa_sortant,ecriture_comptable,tenue_compte,actualisation_compte,banque_distance,total_frais_fixes
+banque,url_brochure_tarifaire,commission_mouvement_fixe,commission_mouvement_variable,virement_sepa_sortant,paiement_prelevement_sepa,ecriture_comptable,tenue_compte,actualisation_compte,banque_distance,total_frais_fixes
 Banque Palatine,https://www.palatine.fr/fileadmin/user_upload/pdf/tarifs/TARIFS_2020_Entreprises.pdf,"23,33","0,20","0,23","0,00","0,00","30,00","25,00","42,00","120,33"
 Banque Populaire (Paris),https://www.rivesparis.banquepopulaire.fr/portailinternet/Editorial/Tarifs/Documents/MAJ%200320%20PROFESSIONNELENTREPRISE_2020.pdf?vary=0-0-0,"5,00","0,15","0,00","0,00","0,00","35,33","6,25","15,00","61,58"
 BNP Paribas,https://dam.bnpparibas.com/sms2/externe/richMedia/vcm_1576247179468_8841329112217067512.zip/data/document.pdf,"10,00","0,20","0,20","0,00","0,00","26,50","18,13","43,00","97,63"
@@ -10,5 +10,5 @@ Crédit du Nord,https://www.credit-du-nord.fr/icd/static/wem/agora/cdn/condition
 Crédit Mutuel,https://www.creditmutuel.fr/partage/fr/CC/CMNE-2018/telechargements/tarifs/2020/entreprises.pdf,"0,00","0,07","0,21","0,00","0,00","25,00","20,83","32,00","77,83"
 HSBC,https://www.business.hsbc.fr/-/media/library/markets-selective/france/pdfs/tarifs-cmb-vf-011020.pdf,"13,00","0,30","0,22","0,00","0,40","31,00","16,25","26,00","86,25"
 La Banque Postale,https://www.labanquepostale.fr/content/dam/pmo/tarifs/01-2020/2020-Tarifs_entreprises_interactif.pdf,"5,00","0,15","0,00","0,00","0,00","14,00","12,50","13,00","44,50"
-LCL,https://portail-lcl-web.cdn.prismic.io/portail-lcl-web/5237f401-c380-4d29-898a-37212562c368_Guide_tarifaire_LCL_entreprise_2020.pdf,"15,00","0,20","0,22","0,00","0,00","30,00","29,75","14,35","89,10"
+LCL,https://portail-lcl-web.cdn.prismic.io/portail-lcl-web/5237f401-c380-4d29-898a-37212562c368_Guide_tarifaire_LCL_entreprise_2020.pdf,"15,00","0,20","0,22","0,00","0,00","30,00","29,75","34,45","109,20"
 Société Générale,https://entreprises.societegenerale.fr/static/ent/ENT/EIE2015/_assets/docs/pdf/Tarifs_2020_FR.pdf,"8,00","0,20","0,21","0,00","0,00","29,00","27,08","29,90","93,98"

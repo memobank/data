@@ -1,24 +1,24 @@
 # Principaux frais mensuels prélevés par les banques traditionnelles
 
-Ce dossier contient les données qui ont servi à préparer l’article : [Pourquoi les frais bancaires sont moins prévisibles que les trains suisses](https://memo.bank/magazine/comparaison-frais-bancaires-2020).
+Ce dossier contient les données qui ont servi à préparer l’article : [Pourquoi les frais bancaires sont moins prévisibles que les trains suisses](https://memo.bank/magazine/comparaison-frais-bancaires-2020).
 
 ## Contenu du CSV
 
 Les valeurs contenues dans le CSV sont séparées par des virgules (`,`).
 
-| Colonne                         | Définition                                                                                |
-| ------------------------------- | ----------------------------------------------------------------------------------------- |
-| `banque`                        | Nom de la banque                                                                          |
-| `url_brochure_tarifaire`        | L’URL de la brochure tarifaire sur le site de la banque                                   |
-| `commission_mouvement_fixe`     | Commission de mouvement fixe minimum par mois (€)                                         |
-| `commission_mouvement_variable` | Commission de mouvement variable maximum prélevée sur les mouvements sortants (%)         |
-| `virement_sepa_sortant`         | Coût d’un virement SEPA sortant ordinaire effectué en ligne (€)                           |
-| `prelevement_sepa_sortant`      | Coût d’un prélèvement SEPA effectué par un créancier sur le compte de l’entreprise (€)    |
-| `ecriture_comptable`            | Montant prélevé sur chaque mouvement (entrant comme sortant) enregistré sur le compte (€) |
-| `tenue_compte`                  | Frais mensuels de tenue de compte (€)                                                     |
-| `actualisation_compte`          | Frais mensuels d’actualisation administrative et juridique du compte (€)                  |
-| `banque_distance`               | Frais mensuels de banque à distance (€)                                                   |
-| `total_frais_fixes`             | `commission_mouvement_fixe` + `tenue_compte` + `actualisation_compte` + `banque_distance` |
+| Colonne                         | Définition                                                                                         |
+| ------------------------------- | -------------------------------------------------------------------------------------------------- |
+| `banque`                        | Nom de la banque                                                                                   |
+| `url_brochure_tarifaire`        | L’URL de la brochure tarifaire sur le site de la banque                                            |
+| `commission_mouvement_fixe`     | Commission de mouvement fixe minimum par mois (€)                                                  |
+| `commission_mouvement_variable` | Commission de mouvement variable maximum prélevée sur les mouvements sortants (%)                  |
+| `virement_sepa_sortant`         | Coût d’un virement SEPA sortant ordinaire effectué en ligne (€)                                    |
+| `paiement_prelevement_sepa`     | Coût d’un paiement (sortant) effectué auprès d’un créancier par le biais d’un prélèvement SEPA (€) |
+| `ecriture_comptable`            | Montant prélevé sur chaque mouvement (entrant comme sortant) enregistré sur le compte (€)          |
+| `tenue_compte`                  | Frais mensuels de tenue de compte (€)                                                              |
+| `actualisation_compte`          | Frais mensuels d’actualisation administrative et juridique du compte (€)                           |
+| `banque_distance`               | Frais mensuels de banque à distance (€)                                                            |
+| `total_frais_fixes`             | `commission_mouvement_fixe` + `tenue_compte` + `actualisation_compte` + `banque_distance`          |
 
 ## Sources
 
