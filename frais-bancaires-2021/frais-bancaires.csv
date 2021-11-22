@@ -1,6 +1,7 @@
 banque,url_brochure_tarifaire,commission_mouvement_fixe,commission_mouvement_variable,virement_sepa_sortant,paiement_prelevement_sepa,ecriture_comptable,tenue_compte,actualisation_compte,banque_distance,total_frais_fixes
 Banque Palatine,https://www.palatine.fr/fileadmin/user_upload/pdf/tarifs/TARIFS_2021_Entreprises07_21.pdf,"23,33","0,20","0,23","0,00","0,00","30,00","25,00","45,00","123,33"
 Banque Populaire (Paris),https://www.rivesparis.banquepopulaire.fr/portailinternet/Editorial/Lists/DocEditoList/PROFESSIONNELENTREPRISE_2021V2.pdf?vary=0-0-0,"5,00","0,15","0,00","0,00","0,00","36,00","6,42","15,00","62,42"
+BRED,https://www.bred.fr/medias/pdf/tarifs/2021/tarifs-entreprises-metropole-mars-2021.pdf,"15,83","0,20","0,28","0,00","0,00","26,00","15,83","40,00","97,66"
 BNP Paribas,https://dam.bnpparibas.com/sms2/externe/richMedia/vcm_1610019329684_8636677159746508782.zip/index.html#/page/0,"10,00","0,20","0,20","0,00","0,00","30,00","18,13","43,50","101,63"
 Caisse d’Épargne,https://www.caisse-epargne.fr/mbp-legales-contractuelles-telechargement.aspx?cle=xykLxBjepiuYRihq0zlcNxJqJBnq4ySKsBgq2E%2fGuXK05vN79wmkR%2bC54rL6ZMo%2f,"8,33","0,25","0,20","0,00","0,00","30,00","20,83","20,00","79,17"
 CIC,https://www.cic.fr/partage/fr/CC/CIC-2015/telechargements/tarifs/CIC-Tarifs-Entreprises-2021.pdf,"14,00","0,20","0,21","0,00","0,10","34,00","16,67","39,00","103,67"
