@@ -1,6 +1,10 @@
 # Principaux frais mensuels prélevés par les banques traditionnelles
 
-Ce dossier contient les données qui ont servi à préparer le graphique intitulé : [Nouvelle année et pas de baisse des frais bancaires](https://twitter.com/memobank/status/1358692794634825729).
+Ce dossier contient les données qui ont servi à préparer :
+
+- le graphique intitulé [Nouvelle année et pas de baisse des frais bancaires](https://twitter.com/memobank/status/1358692794634825729) ;
+- l’article intitulé [Estimez ce que Memo Bank vous ferait économiser avec notre comparateur de frais bancaires](https://memo.bank/magazine/annonce-comparateur-frais-bancaires-memo-bank) ;
+- les estimations données par notre [comparateur de frais bancaire](https://memo.bank/comparateur/).
 
 ## Contenu du CSV
 
@@ -27,6 +31,7 @@ Données issues des brochures tarifaires des banques traditionnelles, édition e
 - [Banque Palatine](brochures/2021-tarifs-banque-palatine.pdf)
 - [Banque Populaire (Paris)](brochures/2021-tarifs-banque-populaire.pdf)
 - [BNP Paribas](brochures/2021-tarifs-bnp.pdf)
+- [BRED](brochures/2021-tarifs-bred.pdf)
 - [Caisse d’Épargne](brochures/2021-tarifs-caisse-epargne.pdf)
 - [CIC](brochures/2021-tarifs-cic.pdf)
 - [Crédit Agricole (Paris)](brochures/2021-tarifs-credit-agricole.pdf)
