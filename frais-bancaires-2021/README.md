@@ -4,7 +4,7 @@ Ce dossier contient les données qui ont servi à préparer :
 
 - le graphique intitulé [Nouvelle année et pas de baisse des frais bancaires](https://twitter.com/memobank/status/1358692794634825729) ;
 - l’article intitulé [Estimez ce que Memo Bank vous ferait économiser avec notre comparateur de frais bancaires](https://memo.bank/magazine/annonce-comparateur-frais-bancaires-memo-bank) ;
-- les estimations données par notre [comparateur de frais bancaire](https://memo.bank/comparateur/).
+- les estimations données par notre [comparateur de frais bancaires](https://memo.bank/comparateur/).
 
 ## Contenu du CSV
 
