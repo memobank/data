@@ -1,6 +1,6 @@
 # Principaux frais mensuels prélevés par les banques traditionnelles
 
-Ce dossier contient les données qui ont servi à préparer le tweet que nous consacrons chaque année à l’évolution des frais fixes prélevés par les banques traditionnelles. Les frais bancaires fixes correspondent aux frais que toutes les entreprises sont censées payées, quel que soit l’usage qu’elles font de leur compte courant.
+Ce dossier contient les données qui ont servi à préparer le [tweet que nous consacrons chaque année](https://twitter.com/memobank/status/1620458155116486656) à l’évolution des frais fixes prélevés par les banques traditionnelles. Les frais bancaires fixes correspondent aux frais que toutes les entreprises sont censées payer chaque mois, quel que soit l’usage qu’elles font de leur compte courant.
 
 ## Contenu du CSV
 
