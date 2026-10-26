@@ -10,7 +10,7 @@ Sauf mention contraire, nos jeux de données sont publiés sous la license [Crea
 
 ### À propos de Memo Bank
 
-Memo Bank ([memo.bank](https://memo.bank)) est une nouvelle banque indépendante pour les petites et moyennes entreprises (PME). Nous aidons les dirigeants à faire grandir leur entreprise en leur proposant des crédits et des outils pour gérer leur trésorerie.
+Memo Bank ([memo.bank](https://memo.bank)) est une banque indépendante API-first conçue pour les entreprises à haute intensité transactionnelle.
 
 ## English
 
@@ -22,4 +22,4 @@ Unless otherwise noticed, our datasets are available under the [Creative Commons
 
 ### About Memo Bank
 
-Memo Bank ([memo.bank/en](https://memo.bank/en)) is a new independent bank for small and medium businesses (SMB). We help French and European companies manage their cash flow and fund their growth.
+Memo Bank ([memo.bank/en](https://memo.bank/en)) is an API-first independent bank, designed for transaction-intensive businesses.
